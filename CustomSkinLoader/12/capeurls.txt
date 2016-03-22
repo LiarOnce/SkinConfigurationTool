@@ -1,0 +1,7 @@
+http://skins.minecraft.net/MinecraftCloaks/*.png
+http://s3.amazonaws.com/MinecraftCloaks/*.png
+http://s.optifine.net/capes/*.png
+http://minecrack.fr.nf/mc/cloaksminecrackd/*.png
+http://www.skinme.cc:88/MinecraftCloaks/*.png
+http://deathhorizon.top/skin/cape/*.png
+https://dhsskin-deathhorizon.rhcloud.com/skin/cape/*.png

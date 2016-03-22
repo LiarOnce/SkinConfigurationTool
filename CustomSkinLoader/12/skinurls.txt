@@ -1,0 +1,6 @@
+http://skins.minecraft.net/MinecraftSkins/*.png
+http://s3.amazonaws.com/MinecraftSkins/*.png
+http://minecrack.fr.nf/mc/skinsminecrackd/*.png
+http://www.skinme.cc:88/MinecraftSkins/*.png
+http://deathhorizon.top/skin/skin/*.png
+https://dhsskin-deathhorizon.rhcloud.com/skin/skin/*.png
