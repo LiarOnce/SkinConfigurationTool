@@ -49,21 +49,21 @@ BrandingText "Death Horizon Studio"
 Section "CustomSkinLoader 13.1+" SEC01
   SetOutPath "$INSTDIR\CustomSkinLoader\"
   SetOverwrite ifnewer
-  File "CustomSkinLoader\13.1+\CustomSkinLoader.json"
+  File "CustomSkinLoader\13\CustomSkinLoader.json"
 SectionEnd
 
 Section "CustomSkinLoader 13.1-" SEC02
-  File "CustomSkinLoader\13.1-\skinurls.txt"
-  File "CustomSkinLoader\13.1-\capeurls.txt"
+  File "CustomSkinLoader\12\skinurls.txt"
+  File "CustomSkinLoader\12\capeurls.txt"
 SectionEnd
 
 Section "UniSkinMod 1.2+" SEC03
   SetOutPath "$INSTDIR\config\"
-  File "UniSkinMod\1.2+\UniSkinMod.cfg"
+  File "UniSkinMod\12\UniSkinMod.cfg"
 SectionEnd
 
 Section "UniSkinMod 1.2-" SEC04
-  File "UniSkinMod\1.2-\UniSkinMod.cfg"
+  File "UniSkinMod\11\UniSkinMod.cfg"
 SectionEnd
 
 Section -Post
