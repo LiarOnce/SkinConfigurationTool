@@ -66,6 +66,11 @@ Section "UniSkinMod 1.2-" SEC04
   File "UniSkinMod\11\UniSkinMod.cfg"
 SectionEnd
 
+Section "UniSkinMod 1.4-dev" SEC05
+  SetOutPath "$INSTDIR\config\UniSkinMod\"
+  File "UniSkinMod\14\UniSkinMod.json"
+SectionEnd
+
 Section -Post
 SectionEnd
 
@@ -76,5 +81,6 @@ SectionEnd
   !insertmacro MUI_DESCRIPTION_TEXT ${SEC02} "为CustomSkinLoader 13.1以下版本提供补丁"
   !insertmacro MUI_DESCRIPTION_TEXT ${SEC03} "为UniSkinMod 1.2及以上版本提供补丁"
   !insertmacro MUI_DESCRIPTION_TEXT ${SEC04} "为UniSkinMod 1.2以下版本提供补丁"
+  !insertmacro MUI_DESCRIPTION_TEXT ${SEC05} "为UniSkinMod 1.4版本提供补丁"
 !insertmacro MUI_FUNCTION_DESCRIPTION_END
 
