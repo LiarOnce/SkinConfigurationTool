@@ -1,0 +1,19 @@
+{
+  "enable": true,
+  "loadlist": [
+    {
+      "name": "Mojang",
+      "type": "MojangAPI"
+    },
+    {
+      "name": "BlessingSkin",
+      "type": "CustomSkinAPI",
+      "root": "https://skin.prinzeugen.net/csl/"
+    },
+    {
+      "name": "SkinMe",
+      "type": "UniSkinAPI",
+      "root": "http://www.skinme.cc/uniskin/"
+    }
+  ]
+}
