@@ -6,6 +6,16 @@
       "type": "MojangAPI"
     },
     {
+      "name": "Death Horizon_Studio Skin 1",
+      "type": "CustomSkinAPI",
+      "root": "http://deathhorizon.top/skin/skin/"
+    },
+    {
+      "name": "Death Horizon_Studio Skin 2",
+      "type": "CustomSkinAPI",
+      "root": "https://dhsskin-deathhorizon.rhcloud.com/skin/skin/"
+    },
+    {
       "name": "BlessingSkin",
       "type": "CustomSkinAPI",
       "root": "https://skin.prinzeugen.net/csl/"
